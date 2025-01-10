@@ -78,4 +78,4 @@ En la industria logística, los palets son plataformas utilizadas para almacenar
 Para clonar este repositorio, usa el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/gestion-palets.git
+git clone https://github.com/SoyNar/PalletApiJwt.git
